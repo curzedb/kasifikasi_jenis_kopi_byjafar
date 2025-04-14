@@ -1,4 +1,4 @@
-Selamat datang di proyek saya, tujuan didirakannya proyek ini adalah untuk tugas akhir dari Dicoding untuk kelas Machine Learning Intermediate.
+#Selamat datang di proyek klasifikasi biji kopi saya, tujuan didirakannya proyek ini sedang dalam pengembangan.
 
 Sumber Dataset : https://universe.roboflow.com/bean-izhxw/usk-coffee-dataset
 
