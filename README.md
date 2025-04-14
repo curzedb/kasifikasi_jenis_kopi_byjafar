@@ -1,6 +1,6 @@
 # Selamat datang di proyek klasifikasi biji kopi. 
 
-## ❗proyek ini sedang dalam pengembangan❗.
+## ❗proyek ini sedang dalam pengembangan❗
 
 ----------------------------------------------------------------------------
 
