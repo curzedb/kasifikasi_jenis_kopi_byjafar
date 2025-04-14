@@ -1,4 +1,8 @@
-# Selamat datang di proyek klasifikasi biji kopi saya, tujuan didirakannya proyek ini sedang dalam pengembangan.
+# Selamat datang di proyek klasifikasi biji kopi. 
+
+## ❗proyek ini sedang dalam pengembangan❗.
+
+----------------------------------------------------------------------------
 
 Sumber Dataset : https://universe.roboflow.com/bean-izhxw/usk-coffee-dataset
 
